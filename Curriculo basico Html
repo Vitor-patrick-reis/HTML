@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <title>Curriculo html basico</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Vitor patrick dos reis revoredo</h1>
+    
+<div style="text-align:;"><img src="imagem ti.jpeg" alt="" height="185" width="150"></div>
+<h3><div style="text-align: center;"><a href="https://www.linkedin.com/in/vitor-patrick-dos-reis-revoredo-06b091243/">Perfil linkdlin</a></div></h3>
+ <hr class="terceiraQuebraDeLinha">   
+    
+ <br><b>Endereço:</b>Rod.Alvaro barbosa de lima neto 3280
+    <br><b>Telefone:</b>12 98237-1546
+    <br><b>Nacimento:</b>19/08/2001
+    <br><b>Email:</b>Vitorpatrick.reis019@gmail.com
+    <hr>
+    
+    <h2>Objetivo:</h2>Busco oportunidade na área da tecnologia e estar sempre buscando novos
+    conhecimentos e melhorar a cada dia em prol do desenvolvimento pessoal e da
+    empresa.
+    <hr>
+
+    <h2>Formação escolar:</h2> <ul>
+     <li>Ensino superior<br>Cursando 2° semestre de analise e desenvolvimento de sistemas<br>Instituto federal de São Paulo-IFSP</li>  
+     <li>Ensino medio completo<br>Benadino querido</li> 
+     </ul>
+     <hr>
+
+    <h2>Cursos extracurriculares:</h2> <ul> 
+    <li>LÓGICA DE PROGRAMAÇÃO - SENAI</li>
+    <li>Inglês intermediário II- EMT SENAI</li>
+    <li>Informática e conhecimento no pacote Office- EMT SENAI</li>
+    <li>TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO- SENAI</li>
+</ul>
+<hr>
+
+<H2>Experiencia profissional:</H2>
+   <ul>
+    <li><b>Empresa:</b>Baruque manutenção industrial
+        Cargo: Auxiliar de logística e documentação
+        Prestador de serviço Gerdau Pindamonhanga</li>
+    </ul>
+  </body>
+</html>
