@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <title>teste link</title>
+</head>
+<body>
+    <h1>Teste links </h1>
+    
+    <a href="secao2">Click aqui</a> <br>
+
+    <h2 id="secao1">secao1</h2>
+
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dignissimos facilis quia laudantium suscipit quae obcaecati nam saepe
+        ipsam molestias esse harum quibusdam illo architecto, veniam assumenda eaque velit optio?
+    </p>
+
+    <h2 id="secao2">secao2</h2>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ratione odit labore ex, minima dolorum! Tempora reprehenderit nulla laudantium fugit perferendis, deleniti sunt. 
+        Nisi quae, quam saepe animi sint ducimus.
+    </p>
+    <h2 id="secao3">secao3</h2>
+
+    <p>
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sint quod, itaque repellendus sunt iste adipisci corporis aliquam! At assumenda consequatur repellendus sit exercitationem 
+         nihil! Error rem tenetur est pariatur.
+    </p>
+            
+</body>
+</html>
